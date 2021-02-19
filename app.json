@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyTSProject",
-    "slug": "MyTSProject",
+    "name": "react-native-ts-temp",
+    "slug": "react-native-ts-temp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
